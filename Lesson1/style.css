@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.h1_click{
+  color: red;
+}
